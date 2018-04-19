@@ -14,6 +14,10 @@
   "keywords": ["corlysis", "grafana", "monitoring"],
   "author": "Michal Komorowski <mkomorowski@windowslive.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mKomorowski/corlysis-js.git"
+  },
   "dependencies": {
     "request": "^2.85.0"
   },
