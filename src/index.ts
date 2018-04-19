@@ -1,3 +1,4 @@
 import Corlysis from "./lib/Corlysis";
 
-module.exports = Corlysis;
+module.exports = exports = Corlysis;
+export default Corlysis;
