@@ -1,6 +1,8 @@
 # Corlysis JS
 Javascript [Corlysis](https://corlysis.com/) client
 
+[![NPM](https://nodei.co/npm/corlysis-js.png?downloads=true)](https://nodei.co/npm/corlysis-js/)
+
 ## Installation
 ```bash
 npm install corlysis-js --save
