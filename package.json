@@ -11,7 +11,11 @@
     "pretest": "tsc",
     "test": "mocha --recursive dist/tests/**/*.spec.js"
   },
-  "keywords": ["corlysis", "grafana", "monitoring"],
+  "keywords": [
+    "corlysis",
+    "grafana",
+    "monitoring"
+  ],
   "author": "Michal Komorowski <mkomorowski@windowslive.com>",
   "license": "ISC",
   "repository": {
@@ -19,17 +23,17 @@
     "url": "git+https://github.com/mKomorowski/corlysis-js.git"
   },
   "dependencies": {
-    "request": "^2.85.0"
+    "request": "^2.88.0"
   },
   "devDependencies": {
-    "@types/mocha": "^5.1.0",
-    "@types/request": "^2.47.0",
-    "@types/sinon": "^4.3.1",
-    "mocha": "^5.1.1",
-    "prettier": "^1.12.1",
-    "sinon": "^4.5.0",
-    "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.10.0",
-    "typescript": "^2.8.1"
+    "@types/mocha": "^5.2.7",
+    "@types/request": "^2.48.1",
+    "@types/sinon": "^7.0.12",
+    "mocha": "^6.1.4",
+    "prettier": "^1.17.1",
+    "sinon": "^7.3.2",
+    "tslint": "^5.17.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.1"
   }
 }
