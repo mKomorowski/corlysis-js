@@ -1,6 +1,6 @@
 {
   "name": "corlysis-js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Javascript client for Corlysis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

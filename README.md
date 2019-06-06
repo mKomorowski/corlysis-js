@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mKomorowski/corlysis-js.svg?branch=master)](https://travis-ci.org/mKomorowski/corlysis-js)
+
 # Corlysis JS
 Javascript [Corlysis](https://corlysis.com/) client
 
