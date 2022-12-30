@@ -29,7 +29,7 @@
     "@types/mocha": "^5.2.7",
     "@types/request": "^2.48.1",
     "@types/sinon": "^7.0.12",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "prettier": "^1.17.1",
     "sinon": "^7.3.2",
     "tslint": "^5.17.0",
